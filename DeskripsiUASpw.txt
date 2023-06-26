@@ -1,0 +1,12 @@
+NAMA:NI MADE INTAN DWI MAHARANI
+NIM: 2201010367
+KELAS:F
+DOSEN PENGAMPU:I MADE GEDE SRI ARTHAA,ST
+PROJECT : APLIKASI WEB PEMERIKSA CUACA KOTA
+
+
+
+
+Aplikasi web pemeriksa cuaca kota adalah sebuah aplikasi yang dirancang untuk memberikan informasi tentang kondisi cuaca pada sebuah kota tertentu. Aplikasi ini dapat diakses secara online melalui browser internet pada perangkat apapun seperti desktop, laptop, maupun smartphone.
+
+Dengan aplikasi ini, pengguna dapat membaca informasi tentang suhu udara, kelembaban, tekanan udara, kecepatan dan arah angin, serta perkiraan cuaca untuk beberapa hari ke depan. Aplikasi ini menggunakan teknologi dan database yang terkini untuk mengumpulkan data cuaca secara real time, sehingga informasi yang ditampilkan selalu akurat dan terbaru.
